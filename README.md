@@ -19,13 +19,23 @@ Delicious is a reciep App using ReactJs framwork and The spoonacular Nutrition, 
 
 ## Screenshots :camera:
 
+### Home Page
+
 <img width=50% src="https://github.com/ElAmirr/Reciep_App/blob/main/screenshots/home.png">
+
+### Cuisine Page
 
 <img width=50% src="https://github.com/ElAmirr/Reciep_App/blob/main/screenshots/cuisine.png">
 
+### Recipe Page Description
+
 <img width=50% src="https://github.com/ElAmirr/Reciep_App/blob/main/screenshots/recipe.png">
 
+### Recipe Page Ingredient
+
 <img width=50% src="https://github.com/ElAmirr/Reciep_App/blob/main/screenshots/recipe_ingredient.png">
+
+### Search Page
 
 <img width=50% src="https://github.com/ElAmirr/Reciep_App/blob/main/screenshots/search.png">
 
