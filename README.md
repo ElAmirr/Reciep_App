@@ -6,7 +6,7 @@
   >
 </p>
 
-## Get started :start:
+## Get started :fire:
 
 git clone https://github.com/ElAmirr/Reciep_App.git <br/>
 npm install<br/>
