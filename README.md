@@ -43,6 +43,6 @@ Delicious is a reciep App using ReactJs framwork and The spoonacular Nutrition, 
 
 - **ElOthmani ElAmir** - <[Portfolio Website](https://elamirr.github.io/)>
 
-## License
+## License :lock:
 
 MIT
