@@ -6,6 +6,12 @@
   >
 </p>
 
+## Get started :start:
+
+git clone https://github.com/ElAmirr/Reciep_App.git
+npm install
+npm start
+
 ## Description :house:
 
 Finally! An all-in-one solution for cooking at home.
