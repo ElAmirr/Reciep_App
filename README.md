@@ -8,8 +8,8 @@
 
 ## Get started :start:
 
-git clone https://github.com/ElAmirr/Reciep_App.git
-npm install
+git clone https://github.com/ElAmirr/Reciep_App.git <br/>
+npm install<br/>
 npm start
 
 ## Description :house:
