@@ -1,6 +1,6 @@
 <h1 align="center">Delicious</h1>
 <p align="center">
-  <img src="https://github.com/ElAmirr/Reciep_App/screenshots/logo.png"
+  <img src="https://github.com/ElAmirr/Reciep_App/blob/main/screenshots/logo.png"
        alt="Delicious logo"
        width="500"
   >
@@ -11,13 +11,15 @@ Delicious is a reciep App using ReactJs framwork and The spoonacular Nutrition, 
 
 ## Screenshots :camera:
 
-<img width=50% src="https://github.com/ElAmirr/Reciep_App/screenshots/home.png">
+<img width=50% src="https://github.com/ElAmirr/Reciep_App/blob/main/screenshots/home.png">
 
-<img width=50% src="https://github.com/ElAmirr/Reciep_App/screenshots/cuisine.ong">
+<img width=50% src="https://github.com/ElAmirr/Reciep_App/blob/main/screenshots/cuisine.png">
 
-<img width=50% src="https://github.com/ElAmirr/Reciep_App/screenshots/recipe">
+<img width=50% src="https://github.com/ElAmirr/Reciep_App/blob/main/screenshots/recipe.png">
 
-<img width=50% src="https://github.com/ElAmirr/Reciep_App/screenshots/recipe_ingredient">
+<img width=50% src="https://github.com/ElAmirr/Reciep_App/blob/main/screenshots/recipe_ingredient.png">
+
+<img width=50% src="https://github.com/ElAmirr/Reciep_App/blob/main/screenshots/search.png">
 
 ## Author :black_nib:
 
